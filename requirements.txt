@@ -4,3 +4,5 @@ yt-dlp==2025.4.30
 moviepy==2.1.2
 python-multipart==0.0.6
 pydantic==2.11.4
+decorator==5.2.1
+pydantic==2.11.4
