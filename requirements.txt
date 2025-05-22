@@ -1,6 +1,9 @@
 fastapi==0.115.2
 uvicorn==0.34.2
 yt-dlp==2025.4.30
-moviepy==2.1.2
 python-multipart==0.0.6
+moviepy==2.1.2
+imageio==2.33.1
+imageio-ffmpeg==0.4.8
+decorator==5.2.1
 pydantic==2.11.4
