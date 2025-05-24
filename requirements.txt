@@ -1,6 +1,5 @@
-fastapi==0.115.2
-uvicorn==0.34.2
-yt-dlp==2024.3.10
-python-multipart==0.0.6
-moviepy==1.0.3
-pydantic==2.11.4
+fastapi
+uvicorn
+yt-dlp
+pydantic
+python-multipart
